@@ -1,1 +1,1 @@
-FROM ubuntu:22.04
+FROM ligero/ligerosmart:6.1-nginx
