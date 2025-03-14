@@ -11,3 +11,8 @@ Faça o clone do projeto:
 ```bash
 git clone https://github.com/CaiquevFreitas/sa-ms-02-docker.git
 ```
+Para atualizar os arquivos execute o comando:
+
+```bash
+git pull
+```
