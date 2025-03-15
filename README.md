@@ -40,3 +40,5 @@ docker run -p 8080:80 -it nome-da-imagem
 Isso iniciará o container e você poderá acessar a aplicação em `http://localhost:8080` no seu navegador.
 
 ---
+
+![alt text](https://raw.githubusercontent.com/CaiquevFreitas/sa-ms-02-docker/refs/heads/main/exemplo.png "Desktop")
