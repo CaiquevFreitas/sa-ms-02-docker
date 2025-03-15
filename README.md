@@ -11,20 +11,12 @@ Faça o clone do projeto:
 ```bash
 git clone https://github.com/CaiquevFreitas/sa-ms-02-docker.git
 ```
-Para acessar a pasta do projeto:
 
 ```bash
-cd sa-ms-02-docker
-```
-Para atualizar os arquivos execute o comando:
-
-```bash
-git pull
+docker build -t "nome da imagem" .
 ```
 
-## Acessando docker file e instalando OS
-
 ```bash
-docker build -t otrs:latest .
+docker run -p 8080:80 -it "nome da imagem"
 ```
 
